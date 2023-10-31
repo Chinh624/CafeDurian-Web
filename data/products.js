@@ -2,7 +2,7 @@ var list_products = [{
     "name": "Cafe Hoa Tan Sau Rieng 4in1",
     "company": "Cafe Sau Rieng",
     "img": "img/products/shopping5.webp",
-    "price": "1.490.000",
+    "price": "490.000",
     "star": 3,
     "rateCount": 26,
     "promo": {
@@ -25,7 +25,7 @@ var list_products = [{
     "name": "Cafe Hoa Tan Sau Rieng DuRica 4in1",
     "company": "Cafe Sau Rieng",
     "img": "img/products/shopping6.webp",
-    "price": "690.000",
+    "price": "290.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -48,7 +48,7 @@ var list_products = [{
     "name": "Cafe Sau Rieng Cappuccino ",
     "company": "Cafe Sau Rieng",
     "img": "img/products/shopping7.webp",
-    "price": "1.690.000",
+    "price": "690.000",
     "star": 5,
     "rateCount": 188,
     "promo": {
@@ -71,7 +71,7 @@ var list_products = [{
     "name": "Hop Cafe Trung Nguyen Sang Tao ",
     "company": "Cafe Trung Nguyen",
     "img": "img/products/shopping8.webp",
-    "price": "3.000.000",
+    "price": "699.000",
     "star": 5,
     "rateCount": 7,
     "promo": {
@@ -94,12 +94,12 @@ var list_products = [{
     "name": "Cafe Chon Trung Nguyen cao cap",
     "company": "Chon cafe",
     "img": "img/products/shopping9.webp",
-    "price": "7.990.000",
+    "price": "990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
         "name": "giamgia",
-        "value": "1.500.000"
+        "value": "150.000"
     },
     "detail": {
         "screen": "Sự kết hợp độc đáo giữa sầu riêng và cà phê Trắng Malysia",
@@ -122,7 +122,7 @@ var list_products = [{
     "rateCount": 10,
     "promo": {
         "name": "giareonline",
-        "value": "9.990.000"
+        "value": "590.000"
     },
     "detail": {
         "screen": "Sự kết hợp độc đáo giữa sầu riêng và cà phê Trắng Malysia",
@@ -140,7 +140,7 @@ var list_products = [{
     "name": "Cafe Trung Nguyen",
     "company": "Cafe Trung Nguyen",
     "img": "img/products/shopping11.webp",
-    "price": "4.690.000",
+    "price": "1.690.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -163,7 +163,7 @@ var list_products = [{
     "name": "Cafe Sau Rieng Ngon ",
     "company": "Cafe Sau Rieng",
     "img": "img/products/shopping12.webp",
-    "price": "6.290.000",
+    "price": "1.290.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -186,7 +186,7 @@ var list_products = [{
     "name": "Cafe Sau Rieng Hoa Tan 4in1",
     "company": "Cafe Sau Rieng",
     "img": "img/products/shopping13.webp",
-    "price": "8.990.000",
+    "price": "1.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -209,7 +209,7 @@ var list_products = [{
     "name": "Hop Cafe Chon Hoang Gia Thuong Hang",
     "company": "Cafe Chon",
     "img": "img/products/shopping14.webp",
-    "price": "17.000.000",
+    "price": "1.000.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -232,7 +232,7 @@ var list_products = [{
     "name": "Hop Cafe Chon Thuong Hang",
     "company": "Cafe Chon",
     "img": "img/products/shopping15.webp",
-    "price": "12.990.000",
+    "price": "1.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -255,7 +255,7 @@ var list_products = [{
     "name": "Hop Nest Cafe (20 goi)",
     "company": "Nest Cafe",
     "img": "img/products/shopping16.webp",
-    "price": "3.490.000",
+    "price": "490.000",
     "star": 4,
     "rateCount": 16,
     "promo": {
@@ -301,7 +301,7 @@ var list_products = [{
     "name": "Hop Cafe Sau Rieng Rock White ",
     "company": "Cafe Sau Rieng",
     "img": "img/products/shopping18.webp",
-    "price": "2.490.000",
+    "price": "1.490.000",
     "star": 4,
     "rateCount": 80,
     "promo": {
@@ -347,7 +347,7 @@ var list_products = [{
     "name": "Cafe Capuchino Sau Rieng Vinanutrifood",
     "company": "Cafe Sau Rieng",
     "img": "img/products/shopping2.webp",
-    "price": "5.690.000",
+    "price": "1.690.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
